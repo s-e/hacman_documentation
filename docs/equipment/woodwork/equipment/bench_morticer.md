@@ -57,7 +57,7 @@ There is a locking bolt on the side of the motor/chuck housing that allows you t
 
 ### Inductions
 
-[Online Quiz](https://docs.google.com/forms/d/1aNHx4_dSrye18SPCItfC4cAhBw65-AVjqEBhwgoYBIE)
+Members should complete an online induction/quiz accessed via the [members portal](https://members.hacman.org.uk/).
 
 ### Safety
 

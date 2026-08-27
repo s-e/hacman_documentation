@@ -55,7 +55,7 @@ There is a locking bolt on the side of the motor/chuck housing that allows you t
 
 [Morticer - local copy](../../../instruction_manuals/AW16BMST2_bench_morticer.pdf)
 
-### Training
+### Inductions
 
 [Online Quiz](https://docs.google.com/forms/d/1aNHx4_dSrye18SPCItfC4cAhBw65-AVjqEBhwgoYBIE)
 
